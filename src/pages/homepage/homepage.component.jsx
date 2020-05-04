@@ -5,6 +5,7 @@ import './homepage.styles.scss';
 function Homepage() {
     return (
         <div className='homepage'>
+            
             <Directory />
         </div>
     )
